@@ -1,1 +1,1 @@
-pvr.re https://bitbucket.org/leandrotsampa/pvr.re.git Krypton
+pvr.re file://..
